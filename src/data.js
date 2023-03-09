@@ -1,0 +1,28 @@
+const data = [
+    {icon : <i class="bi bi-emoji-heart-eyes"></i>,
+     name : "Eyes Heart",
+     id:"1" },
+     {icon : <i class="bi bi-emoji-kiss"></i>,
+     name : "Kiss" ,
+     id:"2" },
+     {icon : <i class="bi bi-emoji-angry"></i>,
+     name : "Angry",
+     id:"3"  },
+     {icon : <i class="bi bi-emoji-smile"></i>,
+     name : "Smile",
+     id:"4"  },
+     {icon : <i class="bi bi-emoji-heart-eyes"></i>,
+     name : "Eyes Heart",
+     id:"5"  },
+     {icon : <i class="bi bi-emoji-kiss"></i>,
+     name : "Kiss",
+     id:"6"  },
+     {icon : <i class="bi bi-emoji-angry"></i>,
+     name : "Angry",
+     id:"7"  },
+     {icon : <i class="bi bi-emoji-smile"></i>,
+     name : "Smile",
+     id:"8"  },
+]
+
+export default data
